@@ -15,18 +15,4 @@
 3. **Trực quan hóa**: Thiết kế dashboard trong Power BI để hiển thị thông tin.
 4. **Báo cáo & Thuyết trình**: Tổng hợp kết quả thành báo cáo và slide trình bày.
 
-## Cách sử dụng
-1. Clone repository về máy:
-   ```sh
-   git clone https://github.com/hoangphuu/FIFa19_visualization.git
-   ```
-2. Mở file `Final_Project_Step1.pbix` bằng **Power BI Desktop**.
-3. Khám phá các dashboard và phân tích dữ liệu.
-
-## Liên hệ
-Nếu bạn có bất kỳ câu hỏi nào, vui lòng liên hệ qua GitHub Issues hoặc email của tôi.
-
----
-📌 **Github:** [hoangphuu](https://github.com/hoangphuu)
-📌 **Dữ liệu nguồn:** FIFA 19 Dataset
 
